@@ -1,0 +1,30 @@
+[33mcommit 89722d095e5455e4f18f7e8564405c492a55abfd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: bfaf8ee a141d00
+Author: Данил Золотоверхий <danylo.zolotoverhij@gmail.com>
+Date:   Sun Dec 4 16:33:12 2022 +0200
+
+    Merge branch 'li'
+
+[33mcommit a141d00e3b10d8a3c83f785fa431a80a7118f9a1[m[33m ([m[1;32mli[m[33m)[m
+Author: Данил Золотоверхий <danylo.zolotoverhij@gmail.com>
+Date:   Sun Dec 4 16:30:58 2022 +0200
+
+    add in branch new file
+
+[33mcommit bfaf8ee60cbc20113334c70490bdfb33e771ea9c[m[33m ([m[1;33mtag: newFlag[m[33m, [m[1;32mNEWBRANCH[m[33m, [m[1;32m104e[m[33m)[m
+Author: Данил Золотоверхий <danylo.zolotoverhij@gmail.com>
+Date:   Sun Dec 4 16:03:08 2022 +0200
+
+    Added changes
+
+[33mcommit 7fcf95d4fb3ceded6ca7ff271eb5b9e23908b077[m
+Author: Данил Золотоверхий <danylo.zolotoverhij@gmail.com>
+Date:   Sun Dec 4 15:55:24 2022 +0200
+
+    new edit
+
+[33mcommit 46757428282561c08db90d39021a1dc8d7e1e1e1[m[33m ([m[1;33mtag: first[m[33m)[m
+Author: Данил Золотоверхий <danylo.zolotoverhij@gmail.com>
+Date:   Sun Dec 4 15:48:00 2022 +0200
+
+    First commit
